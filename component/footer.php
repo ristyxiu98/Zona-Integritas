@@ -13,7 +13,7 @@
       <div class="col-5">
         <h2>SOSIAL MEDIA</h2>
         <a href="https://web.facebook.com/balaipengelolaalihteknologipertanian"> <i class="fa fa-facebook"></i> @BalaiPATP </a>
-        <h3> <i class="fa fa-twitter"></i> @BalaiPATP </h3>
+        <a href="https://github.com/ristyxiu98"> <i class="fa fa-twitter"></i> @BalaiPATP </a>
         <h3> <i class="fa fa-instagram"></i> BalaiPATP </h3>
         <h3> <i class="fa fa-youtube"></i> BalaiPATP </h3>
       </div>

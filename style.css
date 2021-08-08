@@ -1,0 +1,116 @@
+nav {
+  box-shadow: 0px 14px 20px 0px rgb(0 0 0 / 8%);
+}
+
+.collapse{
+  margin: 0 50px;
+  font-size: 11pt;
+  
+}
+
+.carousel{
+  position: relative;
+  margin-top: 45px;
+}
+
+a{
+  color:#158A47 ;
+  text-decoration: none;
+}
+
+a:hover{
+  color: red;
+}
+
+.navbar-light .navbar-nav .nav-link:focus, .nav-link:hover,
+.navbar-light .navbar-nav .nav-link:hover {
+  color: white;
+  background-color: #158A47;
+}
+
+
+
+.nav-item:active{
+  background-color: #158A47;
+}
+
+.dropdown-item:active{
+  background-color: #158A47;
+}
+.dropdown-item:hover{
+  color: white;
+  background-color: #158A47;
+}
+
+
+.main-wrapper{
+  margin-top: 150px;
+  margin-bottom: 300px;
+}
+
+.main-wrapper h1{
+  margin: 30px 0;
+ }
+
+.main-wrapper h2{
+ margin: 30px 0;
+}
+
+
+.top-wrapper p{
+  color: black;
+  text-align: center;
+  padding: 80px 40px;
+  font-size: 30px;
+
+}  
+
+.top-wrapper span{
+  color: aqua;
+  font-size: 54px;
+}
+
+.fa{
+  color:#158A47;
+  margin: 5px;
+}
+
+.vid p{
+  text-align: center;
+  font-size: 24px;
+}
+
+video{
+  margin-top:50px; 
+  margin-left:100px;
+}
+
+
+footer{
+  background-color:#141414;
+
+}
+
+footer h2{
+  color: white;
+  font-size: 20px;
+  padding-top: 20px;
+}
+
+footer h3{
+  color: white;
+  font-size: 14px;
+}
+
+footer p{
+  color: wheat;
+  text-align: center;
+}
+
+.col-5{
+  margin: 30px 0;
+}
+
+.col-5 h2{
+  margin-bottom: 30px;
+}

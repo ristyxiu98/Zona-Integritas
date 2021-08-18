@@ -1,6 +1,6 @@
 <header>
   <div class="container-fluid p-0 mb-3">
-    <img src="image/portal5.png" alt="" width="1347px" height="200px" style="background-size: cover; object-fit:cover; margin:0;">
+    <img src="./image/portal5.png" alt="" width="1347px" height="200px" style="background-size: cover; object-fit:cover; margin:0;">
   </div>
 
 
@@ -24,10 +24,10 @@
                 </a>
                 <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
                   <!-- Dropdown menu links -->
-                  <li><a class="dropdown-item" href="area11.php">Tim Kerja</a></li>
-                  <li><a class="dropdown-item" href="area12.php">Dokumen Rencana Pembangunan ZI</a></li>
-                  <li><a class="dropdown-item" href="area13.php">Pemantauan dan Evaluasi Pembangunan ZI</a></li>
-                  <li><a class="dropdown-item" href="area14.php">Perubahan Pola Pikir & Budaya Kerja</a></li>
+                  <li><a class="dropdown-item" href="Komponen1/area11.php">Tim Kerja</a></li>
+                  <li><a class="dropdown-item" href="Komponen1/area12.php">Dokumen Rencana Pembangunan ZI</a></li>
+                  <li><a class="dropdown-item" href="Komponen1/area13.php">Pemantauan dan Evaluasi Pembangunan ZI</a></li>
+                  <li><a class="dropdown-item" href="Komponen1/area14.php">Perubahan Pola Pikir & Budaya Kerja</a></li>
                 </ul>
               </div>
             </ul>

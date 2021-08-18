@@ -8,14 +8,15 @@
         <h3> <i class="fa fa-fax"></i> Fax (0251) 8382 567</h3>
         <h3> <i class="fa fa-envelope"></i> bpatp@litbang.pertanian.go.id</h3>
       </div>
-
+      \
 
       <div class="col-5">
         <h2>SOSIAL MEDIA</h2>
-        <a href="https://web.facebook.com/balaipengelolaalihteknologipertanian"> <i class="fa fa-facebook"></i> @BalaiPATP </a>
-        <a href="https://github.com/ristyxiu98"> <i class="fa fa-twitter"></i> @BalaiPATP </a>
-        <h3> <i class="fa fa-instagram"></i> BalaiPATP </h3>
-        <h3> <i class="fa fa-youtube"></i> BalaiPATP </h3>
+        <a href="https://web.facebook.com/balaipengelolaalihteknologipertanian"><i class="fa fa-facebook"></i>@BalaiPATP </a><br>
+        <a href="https://github.com/ristyxiu98"><i class="fa fa-twitter"></i>@BalaiPATP </a><br>
+        <a href=""><i class="fa fa-instagram"></i>BalaiPATP </a><br>
+        <a href=""><i class="fa fa-youtube"></i>BalaiPATP </a><br>
+
       </div>
     </div>
   </div>

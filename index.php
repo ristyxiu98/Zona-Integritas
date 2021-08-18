@@ -50,7 +50,7 @@
     <div class="container">
       <p>Video Profil Balai Pengelola Alih Teknologi Pertanian</p>
 
-      <video width="900" height="500" controls autoplay="true" loop>
+      <video width="900" height="500" controls>
         <source src='media/contoh.mp4' type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"'>
         <source src='media/contoh..ogv' type='video/ogg; codecs="theora, vorbis"'>
         <source src="media/contoh.webm" type='video/webm; codecs="vp8, vorbis"'>

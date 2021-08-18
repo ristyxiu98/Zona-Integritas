@@ -11,7 +11,14 @@
           <div class="p-2 bd-highlight"> 1 </div>
           <div class="p-2 flex-grow-1 bd-highlight">Apakah unit kerja telah membentuk tim untuk melakukan pembangunan Zona Integritas</div>
           <div class="p-2 bd-highlight">
-            <a href="https://drive.google.com/drive/folders/10IHeD_OvAwsQCHKT7WY5ETL5Mj9dKgkT">Klik Disini</a>
+            <a data-bs-toggle="collapse" href="#collapseExample" role="button" aria-expanded="false" aria-controls="collapseExample">Klik Disini</a>
+
+            <div class="collapse" id="collapseExample">
+              <div class="card card-body">
+                Some placeholder content for the collapse component. This panel is hidden by default but revealed when the user activates the relevant trigger.
+              </div>
+            </div>
+
           </div>
         </div>
       </li>

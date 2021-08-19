@@ -23,6 +23,9 @@
       <img src="image/foto3.jpg" class="d-block w-100" alt="...">
     </div>
     <div class="carousel-item">
+      <img src="image/foto4.jpeg" class="d-block w-100" alt="...">
+    </div>
+    <div class="carousel-item">
       <img src="image/foto5.jpeg" class="d-block w-100" alt="...">
     </div>
   </div>

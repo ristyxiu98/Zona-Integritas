@@ -8,7 +8,7 @@
   <link rel="stylesheet" href="style.css">
   <script src="https://kit.fontawesome.com/49cc72fc5c.js" crossorigin="anonymous"></script>
 
-  <link rel="shortcut icon" href="image/logo.png" type="image/x-icon">
+  <link rel="shortcut icon" href="./image/logo.png" type="image/x-icon">
   <title>
     PORTAL ZONA INTEGRITAS BALAI PATP
   </title>

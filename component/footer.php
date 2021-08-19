@@ -13,9 +13,9 @@
       <div class="col-5">
         <h2>SOSIAL MEDIA</h2>
         <a href="https://web.facebook.com/balaipengelolaalihteknologipertanian"><i class="fa fa-facebook"></i>@BalaiPATP </a><br>
-        <a href="https://github.com/ristyxiu98"><i class="fa fa-twitter"></i>@BalaiPATP </a><br>
-        <a href=""><i class="fa fa-instagram"></i>BalaiPATP </a><br>
-        <a href=""><i class="fa fa-youtube"></i>BalaiPATP </a><br>
+        <a href="https://twitter.com/balaipatp"><i class="fa fa-twitter"></i>@BalaiPATP </a><br>
+        <a href="https://www.instagram.com/balaipatp/"><i class="fa fa-instagram"></i>BalaiPATP </a><br>
+        <a href="https://www.youtube.com/channel/UCVgmCaBPcSLRRs_aMmg9Zhw/videos"><i class="fa fa-youtube"></i>BalaiPATP </a><br>
 
       </div>
     </div>
